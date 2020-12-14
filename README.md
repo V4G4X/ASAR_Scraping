@@ -3,3 +3,5 @@ Transparent, Open-Source PDF Scraping for <b>Accidental Deaths and Suicides in I
 
 ### [2018 Report Page](https://ncrb.gov.in/en/accidental-deaths-suicides-india-2018-0)  
 ### [2019 Report Page](https://ncrb.gov.in/en/accidental-deaths-suicides-india-2019)
+
+### The output of 2019 is in the folder 2019
